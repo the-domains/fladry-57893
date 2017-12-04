@@ -1,16 +1,16 @@
-layout_spectrum: 0.23812902599388716
-typography_spectrum: 0.22905337070326995
+layout_spectrum: 0.8859577212692008
+typography_spectrum: 0.1519043721719691
 color:
   brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
-  brandStrength: 0.38372690133897974
-  lightness: 0.6622393795108368
-  saturation: 0.9534762068587069
-  rhythmicContrast: 0.3900199877454134
+    - '#979799'
+    - '#FFFFFF'
+    - '#0D0D0D'
+    - '#A24742'
+    - '#058C49'
+  brandStrength: 0.8818670056937354
+  lightness: 0.8416720998838617
+  saturation: 0.9440544491851388
+  rhythmicContrast: 0.2604964013270444
 github: true
 author:
   name: sungmin_roh
