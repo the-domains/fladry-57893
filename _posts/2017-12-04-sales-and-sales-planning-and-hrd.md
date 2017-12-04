@@ -1,19 +1,19 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-12-04T08:52:04.215Z'
-datePublished: '2017-12-04T08:52:05.220Z'
-title: 'Sales & Sales Planning & HRD '
+dateModified: '2017-12-04T08:59:31.791Z'
+datePublished: '2017-12-04T08:59:32.747Z'
+title: Sales & Sales Planning & HRD
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-12-04-sales-and-sales-planning-and-hrd.md
 starred: false
 datePublishedOriginal: '2017-12-04T08:52:05.220Z'
-sourcePath: _posts/2017-12-04-sales-and-sales-planning-and-hrd.md
 _type: Blurb
 
 ---
-## **Sales & Sales Planning & HRD **
+# **Sales & Sales Planning & HRD**
 
 * [영업기획][0]
 
