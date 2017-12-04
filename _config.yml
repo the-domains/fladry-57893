@@ -1,0 +1,52 @@
+layout_spectrum: 0.5377552588905512
+typography_spectrum: 0.6797445493015359
+color:
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  brandStrength: 0.1508190863692008
+  lightness: 0.4463142796591072
+  saturation: 0.5902557545333252
+  rhythmicContrast: 0.6541917375851386
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: fladry
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da71eeb0-8b52-4827-98fd-1ec94afd6bb6.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/da71eeb0-8b52-4827-98fd-1ec94afd6bb6.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: 노성민
+description: 프로필
+github: true
+author:
+  name: sungmin_roh
+  email: iegojoa@hanmail.net
