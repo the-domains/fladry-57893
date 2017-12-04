@@ -1,4 +1,5 @@
-typography_spectrum: 0.6797445493015359
+layout_spectrum: 0.23812902599388716
+typography_spectrum: 0.22905337070326995
 color:
   brandColors:
     - '#405952'
@@ -6,12 +7,11 @@ color:
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
-  brandStrength: 0.1508190863692008
-  lightness: 0.4463142796591072
-  saturation: 0.5902557545333252
-  rhythmicContrast: 0.6541917375851386
+  brandStrength: 0.38372690133897974
+  lightness: 0.6622393795108368
+  saturation: 0.9534762068587069
+  rhythmicContrast: 0.3900199877454134
 github: true
-layout_spectrum: 0.5377552588905512
 author:
   name: sungmin_roh
   email: iegojoa@hanmail.net
