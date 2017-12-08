@@ -1,4 +1,3 @@
-layout_spectrum: 0.8859577212692008
 typography_spectrum: 0.1519043721719691
 color:
   brandColors:
@@ -12,10 +11,16 @@ color:
   saturation: 0.9440544491851388
   rhythmicContrast: 0.2604964013270444
 github: true
+opengraph:
+  type: ''
+layout_spectrum: 0.8859577212692008
+analytics:
+  google: UA-110882097-1
 author:
   name: sungmin_roh
   email: iegojoa@hanmail.net
 name: fladry
+url: 'https://thegrid.ai/fladry/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -26,6 +31,9 @@ colors:
 navigation:
   - name: 노성민.포스팅.한국
     url: 'https://thegrid.ai/fladry-57893/'
+    type: external
+  - name: 인스타
+    url: 'http://instagram.com/sungmin_roh'
     type: external
 title: 노 성 민
 content:
@@ -61,25 +69,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d847d12-19e6-4b34-8662-c5f7c63728f1.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 프로필
-url: 'https://thegrid.ai/fladry/'
-opengraph:
-  type: ''
-analytics:
-  google: UA-110882097-1
