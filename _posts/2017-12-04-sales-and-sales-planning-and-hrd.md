@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-12-04T08:59:31.791Z'
-datePublished: '2017-12-04T08:59:32.747Z'
+dateModified: '2017-12-08T09:56:00.572Z'
+datePublished: '2017-12-08T09:56:01.680Z'
 title: Sales & Sales Planning & HRD
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Blurb
 
 * [점포담당][3]
 
-[0]: https://drive.google.com/drive/folders/19pBR9KM5rqXiDWzGiNboGjAUsh-0_3__?usp=sharing
-[1]: https://drive.google.com/drive/folders/1MMpena6kLHpbOD1GLmFckwCA0bsrU6mY?usp=sharing
-[2]: https://drive.google.com/drive/folders/1nnA-u0NkxYAjqgxE9q84UbqVqFVIgMXJ?usp=sharing
-[3]: https://drive.google.com/drive/folders/1PsEa3agE1HW2RIjZfJT9TnaFwIaOGubz?usp=sharing
+[0]: https://drive.google.com/open?id=19pBR9KM5rqXiDWzGiNboGjAUsh-0_3__
+[1]: https://drive.google.com/open?id=1MMpena6kLHpbOD1GLmFckwCA0bsrU6mY
+[2]: https://drive.google.com/open?id=1nnA-u0NkxYAjqgxE9q84UbqVqFVIgMXJ
+[3]: https://drive.google.com/open?id=1PsEa3agE1HW2RIjZfJT9TnaFwIaOGubz
