@@ -38,7 +38,7 @@ navigation:
   - name: 페이스북
     url: 'https://www.facebook.com/iegojoa'
     type: external
-title: 노 성 민
+title: SK
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
