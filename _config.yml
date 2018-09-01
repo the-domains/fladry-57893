@@ -38,7 +38,7 @@ navigation:
   - name: 페이스북
     url: 'https://www.facebook.com/iegojoa'
     type: external
-title: SK
+title: S K
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
